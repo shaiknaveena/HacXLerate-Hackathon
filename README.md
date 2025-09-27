@@ -27,8 +27,17 @@ T.Manasa
 T.kanaka Prabha
 ⚙Tech stack-
 *HTML/CSS/JS(frontend)
-*PYTHON/JAVA(backend)
-*
+🎯 Future Scope-
+.Advanced AI M0dels:Improve recommendation accuracy using deep learning and reintorcement learning.
+.Real-Time:Provide instant recomendations during live shopping sessions.
+.Cross-Platform Integration:Extend support to e-commerce website ,mobile appa,and offline retail stores.
+.Voice&Chatbot Support:Integrate with AI assistants to suggest similar products through voice or chat+
+.Visual Recommendations:Use image recognition to suggest similar products based on photos.
+.Customer behaviour Prediction:Anticipate future buying trends for better inventory planning.
+.Scalability:Expanded the system for large-scale retailers with millions of customers.
+.Data security & privacy:Ensure secure handling of customer data with strong privacy standards.
+
+
 
 
 
